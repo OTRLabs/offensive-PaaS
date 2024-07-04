@@ -6,6 +6,7 @@
 ---
 
 
+
 ### API Platforms
 
 #### [n8n](https://supabase.com/partners/integrations/n8n)
@@ -14,3 +15,14 @@
 #### [Stream](https://supabase.com/partners/integrations/getstream_io)
 [Stream](https://supabase.com/partners/integrations/getstream_io) allows `developers` to *seamlessly* integrate `real-time messaging` or `activity feeds` into their `applications`. 
 They provide high-fidelity `UI SDKs` for **all major platforms** and a **fully documented** `REST API` for *both* `services`.
+
+
+
+
+### Authentication
+
+#### Fuck it. We are going with Clerk for auth.
+
+**Why?** => it says React on the 
+
+![Clerk](httpsassets/clerkwhy.png)
