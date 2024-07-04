@@ -92,7 +92,23 @@ The project aims to explore three open-source platform-as-a-service (PaaS) syste
 [Supabase](https://supabase.com) is an open-source alternative to Firebase. It provides a set of backend services, including authentication, database, and storage. With Supabase, red teamers can take advantage of its feature-rich authentication system, real-time database, and storage capabilities.
 
 **2. Pocketbase**
+
 [Pocketbase](https://github.com/pocketbase/pocketbase) is a backend-as-a-service platform that allows developers to build their own custom backend for their SaaS and mobile applications. It provides features like authentication, database, storage, and email integration. By integrating Pocketbase with CryptCloud, users can leverage its powerful backend capabilities to enhance their offensive security operations.
+
+### Pocketbase C2
+
+The idea behind Pocketbase C2 is to establish HTTP(S) based communications with custom agents using Pocketbase's pseudo REST API system. Here are various methods for tunneling/exposure:
+
+- [Tor hidden service](https://www.torproject.org/docs/hidden-services.html.en)
+- [Tor + Tor2Web Proxy](https://www.torproject.org/projects/tor2web.html.en)
+- [Cloudflared](https://www.cloudflare.com/products/cloudflared/)
+- [Nginx](https://www.nginx.com/)
+- [Apache](https://httpd.apache.org/)
+- [Traefik](https://traefik.io/)
+
+Pocketbase C2 could of course be containerized using platforms like [Pockethub](https://github.com/pocketbase/pockethub).
+
+
 
 **3. [Encore](https://encore.dev/)**
 [Encore](https://encore.dev/) is a backend development engine that aims to provide a modern and efficient way to build backend services. It offers features like database, authentication, and storage, making it an attractive choice for red teamers. By integrating [Encore](https://encore.dev/) with CryptCloud, users can seamlessly integrate its powerful backend capabilities into their offensive security operations.
