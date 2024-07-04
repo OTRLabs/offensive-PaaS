@@ -132,4 +132,24 @@ Pocketbase C2 could of course be containerized using platforms like [Pockethub](
 
 
 **4. [SurrealDB](https://surrealdb.com/)**
-[SurrealDB](https://surrealdb.com)
+[SurrealDB](https://surrealdb.com) calls itself "The **ultimate** `multi-model` `database`". 
+It is an open-source alternative to traditional Graph & NoSQL databases. It provides an advanced and powerful backend for storing and querying data.
+While it is not quite the same as something like Supabase & Pocketbase, it is a great choice for offensive security operations revolving around AI, ML, and large databases!
+
+**5. [Nocodb](https://nocodb.com/)**
+
+---
+
+Build Databases As Spreadsheets :
+
+📚 No-Coding Required
+
+NocoDB allows building **no-code** database solutions with **ease of spreadsheets**.
+
+📈 Bring your own database or choose ours!
+
+🔥 Millions of rows? Not a problem.
+
+🔑 Your Data. Your rules. You are in control.
+
+---
