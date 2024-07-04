@@ -45,6 +45,8 @@ While the appeal of creating a custom PaaS system is strong, it's essential to j
 4. **Customized Service Integration**: Carefully selecting and integrating third-party services, with a focus on:
    - OAuth providers
    - Alternatives to commonly used services like Redis
+5. **Develop & Prototype React Components**: Developing and prototyping React components for CryptCloud. 
+
 
 To ensure that developing a custom PaaS system is not redundant, this project aims to:
 
