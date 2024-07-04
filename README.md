@@ -45,7 +45,7 @@ While the appeal of creating a custom PaaS system is strong, it's essential to j
 4. **Customized Service Integration**: Carefully selecting and integrating third-party services, with a focus on:
    - OAuth providers
    - Alternatives to commonly used services like Redis
-5. **Develop & Prototype React Components**: Developing and prototyping React components for CryptCloud. 
+5. **Develop & Prototype React Components**: Developing and prototyping React components for CryptCloud. We will be using [palantir/blueprint](https://blueprintjs.com/) as our UI toolkit.
 
 
 To ensure that developing a custom PaaS system is not redundant, this project aims to:
@@ -81,17 +81,19 @@ The project will follow these steps:
 
 6. **Iteration**: Use insights gained from this process to refine the CryptCloud Platform design and feature set.
 
+
+
 ### Target Platforms
 
 The project aims to explore three open-source platform-as-a-service (PaaS) systems:
 
-**Supabase**
+
+**1. Supabase**
 [Supabase](https://supabase.com) is an open-source alternative to Firebase. It provides a set of backend services, including authentication, database, and storage. With Supabase, red teamers can take advantage of its feature-rich authentication system, real-time database, and storage capabilities.
 
-**Pocketbase**
+**2. Pocketbase**
 [Pocketbase](https://github.com/pocketbase/pocketbase) is a backend-as-a-service platform that allows developers to build their own custom backend for their SaaS and mobile applications. It provides features like authentication, database, storage, and email integration. By integrating Pocketbase with CryptCloud, users can leverage its powerful backend capabilities to enhance their offensive security operations.
 
-**[Encore](https://encore.dev/)**
+**3. [Encore](https://encore.dev/)**
 [Encore](https://encore.dev/) is a backend development engine that aims to provide a modern and efficient way to build backend services. It offers features like database, authentication, and storage, making it an attractive choice for red teamers. By integrating [Encore](https://encore.dev/) with CryptCloud, users can seamlessly integrate its powerful backend capabilities into their offensive security operations.
 
-Each platform will be evaluated for its suitability in implementing offensive security features, with a particular emphasis on database operations and machine learning capabilities.
