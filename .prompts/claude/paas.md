@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/offensivepaas.svg)](https://github.com/yourusername/offensivepaas/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-> Researching & designing offensive tooling based around OSS [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service) systems ([Supabase](https://supabase.com), [Pocketbase](https://github.com/pocketbase/pocketbase), [Encore](https://encore.dev))
+> Researching & designing offensive tooling based around OSS [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service) systems ([Supabase](https://supabase.com), [Pocketbase](https://github.com/pocketbase/pocketbase), [[Encore](https://encore.dev/)](https://[encore](https://encore.dev/).dev))
 
 ## Table of Contents
 
@@ -81,10 +81,15 @@ The project will follow these steps:
 
 ### Target Platforms
 
-The project will focus on the following open-source PaaS systems:
+The project aims to explore three open-source platform-as-a-service (PaaS) systems:
 
-- [Supabase](https://supabase.com): An open-source Firebase alternative
-- [Pocketbase](https://github.com/pocketbase/pocketbase): A open-source backend for your next SaaS and Mobile app
-- [Encore](https://encore.dev): A backend development engine
+**Supabase**
+Supabase is an open-source alternative to Firebase. It provides a set of backend services, including authentication, database, and storage. With Supabase, red teamers can take advantage of its feature-rich authentication system, real-time database, and storage capabilities.
+
+**Pocketbase**
+[Pocketbase](https://github.com/pocketbase/pocketbase) is a backend-as-a-service platform that allows developers to build their own custom backend for their SaaS and mobile applications. It provides features like authentication, database, storage, and email integration. By integrating Pocketbase with CryptCloud, users can leverage its powerful backend capabilities to enhance their offensive security operations.
+
+**[Encore](https://encore.dev/)**
+[Encore](https://encore.dev/) is a backend development engine that aims to provide a modern and efficient way to build backend services. It offers features like database, authentication, and storage, making it an attractive choice for red teamers. By integrating [Encore](https://encore.dev/) with CryptCloud, users can seamlessly integrate its powerful backend capabilities into their offensive security operations.
 
 Each platform will be evaluated for its suitability in implementing offensive security features, with a particular emphasis on database operations and machine learning capabilities.
