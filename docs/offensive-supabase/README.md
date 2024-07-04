@@ -23,6 +23,6 @@ They provide high-fidelity `UI SDKs` for **all major platforms** and a **fully d
 
 #### Fuck it. We are going with Clerk for auth.
 
-**Why?** => it says React on the 
+**Why?** => it says *it works with `React`* on the [Supabase](https://supabase.com) integrations page, and I want to use `React` for the UI so... yeah.
 
 ![Clerk](../../assets/clerkwhy.png)
