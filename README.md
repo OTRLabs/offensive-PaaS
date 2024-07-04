@@ -23,7 +23,8 @@
 6. [Contributing](#contributing)
 7. [License](#license)
 
-## Introduction
+## Part 1 | Introduction to `Offensive PaaS`
+---
 
 ### Background
 
@@ -33,9 +34,9 @@ The primary focus of this larger project is [CryptCloud](https://github.com/OTRL
 
 ### Problem Statement
 
-During the development of CryptCloud, a realization emerged: there was a lack of hands-on experience with existing PaaS software. This gap in knowledge raised questions about the necessity of designing a new PaaS system from scratch versus leveraging existing solutions.
+During the development of [CryptCloud](https://github.com/OTRLabs/CryptCloud-Platform), a realization emerged: there was a lack of hands-on experience with existing PaaS software. This gap in knowledge raised questions about the necessity of designing a new PaaS system from scratch versus leveraging existing solutions.
 
-### Motivation
+### Motivation for working on `Offensive PaaS`:
 
 While the appeal of creating a custom PaaS system is strong, it's essential to justify this decision. The primary motivations for developing a new PaaS system include:
 
@@ -54,16 +55,32 @@ To ensure that developing a custom PaaS system is not redundant, this project ai
 - Identify areas for improvement and innovation
 - Develop proof-of-concept features that demonstrate the unique value proposition of CryptCloud
 
-## Plan
+## Part 2 | Planning for `Offensive PaaS`
+---
 
 ### Objectives
 
 The primary objectives of the `Offensive PaaS` project are:
 
-1. Gain practical experience with existing open-source PaaS platforms
-2. Implement prototype versions of features planned for the CryptCloud Platform
-3. Identify limitations and potential security implications of current PaaS offerings
-4. Develop a comprehensive list of improvements and innovations for CryptCloud
+#### 📚 Gain practical experience with existing open-source PaaS platforms
+
+Explore existing open-source PaaS platforms and gain hands-on experience with their architecture, features, and security models. This will provide valuable insights into the strengths and weaknesses of different platforms and enable you to design CryptCloud with a broader understanding of the market.
+
+#### 📊 Implement prototype versions of features planned for the CryptCloud Platform
+
+Develop prototype implementations of key features planned for CryptCloud using selected open-source PaaS platforms. This will allow you to assess the feasibility and performance of these features in various environments and identify potential improvements.
+
+#### 🔍 Identify limitations and potential security implications of current PaaS offerings
+
+Examine the limitations and potential security implications of current PaaS offerings. This will enable you to identify areas where CryptCloud can differentiate itself and provide a more secure and feature-rich platform for red teaming and offensive security operations.
+
+#### 🔨 Develop a comprehensive list of improvements and innovations for CryptCloud
+
+Create a comprehensive list of improvements and innovations that can be incorporated into CryptCloud. This will serve as a roadmap for future development and ensure that CryptCloud remains a cutting-edge platform tailored to the needs of red teamers and offensive security professionals.
+
+---
+
+If you're ready to embark on this exciting journey, let's dive into the methodology and explore the target platforms!
 
 ### Methodology
 
@@ -113,3 +130,6 @@ Pocketbase C2 could of course be containerized using platforms like [Pockethub](
 **3. [Encore](https://encore.dev/)**
 [Encore](https://encore.dev/) is a backend development engine that aims to provide a modern and efficient way to build backend services. It offers features like database, authentication, and storage, making it an attractive choice for red teamers. By integrating [Encore](https://encore.dev/) with CryptCloud, users can seamlessly integrate its powerful backend capabilities into their offensive security operations.
 
+
+**4. [SurrealDB](https://surrealdb.com/)**
+[SurrealDB](https://surrealdb.com)
