@@ -58,7 +58,7 @@ To ensure that developing a custom PaaS system is not redundant, this project ai
 
 ### Objectives
 
-The primary objectives of the Offensive PaaS project are:
+The primary objectives of the `Offensive PaaS` project are:
 
 1. Gain practical experience with existing open-source PaaS platforms
 2. Implement prototype versions of features planned for the CryptCloud Platform
@@ -86,7 +86,7 @@ The project will follow these steps:
 The project aims to explore three open-source platform-as-a-service (PaaS) systems:
 
 **Supabase**
-Supabase is an open-source alternative to Firebase. It provides a set of backend services, including authentication, database, and storage. With Supabase, red teamers can take advantage of its feature-rich authentication system, real-time database, and storage capabilities.
+[Supabase](https://supabase.com) is an open-source alternative to Firebase. It provides a set of backend services, including authentication, database, and storage. With Supabase, red teamers can take advantage of its feature-rich authentication system, real-time database, and storage capabilities.
 
 **Pocketbase**
 [Pocketbase](https://github.com/pocketbase/pocketbase) is a backend-as-a-service platform that allows developers to build their own custom backend for their SaaS and mobile applications. It provides features like authentication, database, storage, and email integration. By integrating Pocketbase with CryptCloud, users can leverage its powerful backend capabilities to enhance their offensive security operations.
