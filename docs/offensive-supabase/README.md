@@ -25,4 +25,4 @@ They provide high-fidelity `UI SDKs` for **all major platforms** and a **fully d
 
 **Why?** => it says React on the 
 
-![Clerk](assets/clerkwhy.png)
+![Clerk](../../assets/clerkwhy.png)
